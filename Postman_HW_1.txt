@@ -1,7 +1,7 @@
 Postman.
 HW_1
 
-—оздать запросы в Postman.
+Create requests in Postman.
 
 Protocol: http
 IP: 162.55.220.72
@@ -16,8 +16,8 @@ request url params:
 
 response: 
 [
-    УStrФ,
-    УStrФ
+    "Str",
+    "Str"
 ]
 
 ==================
