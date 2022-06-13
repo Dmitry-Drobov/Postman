@@ -1,0 +1,172 @@
+{
+	"id": "698de782-6c63-41ce-a263-917fce3c1c11",
+	"name": "Group_30_HW1",
+	"timestamp": "2022-06-13T12:39:20.627Z",
+	"collection_id": "20528800-34b7817e-e45d-488f-a79f-bd5b3df07796",
+	"folder_id": 0,
+	"environment_id": "20528800-3c3e40ca-66b4-4047-853a-d4f0eb3e5501",
+	"totalPass": 0,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "36f5a664-574e-40b2-be30-3be0da831a05",
+			"name": "EP_1",
+			"url": "http://162.55.220.72:5005/get_method?name=DD&age=39",
+			"time": 94,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				94
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "bf495431-b4e8-49a5-b2e0-265e9c44a5e5",
+			"name": "EP_2",
+			"url": "http://162.55.220.72:5005/user_info_3",
+			"time": 96,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				96
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "30d22394-034f-4944-bde6-da03dca8b90b",
+			"name": "EP_3",
+			"url": "http://162.55.220.72:5005/object_info_1?name=Mike&age=33&weight=70",
+			"time": 92,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				92
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "eae68159-92fc-4e95-98d3-ca8f11ee278a",
+			"name": "EP_4",
+			"url": "http://162.55.220.72:5005/object_info_2?name=Lucy&age=35&salary=2500",
+			"time": 90,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				90
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "3e7c4629-608f-4db9-8450-7ed91952b91e",
+			"name": "EP_5",
+			"url": "http://162.55.220.72:5005/object_info_3?name=Sandra&age=25&salary=800",
+			"time": 92,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				92
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "536d62de-9462-4df7-9a3e-a294b91cb10d",
+			"name": "EP_6",
+			"url": "http://162.55.220.72:5005/object_info_4?name=John&age=40&salary=3500",
+			"time": 91,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				91
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "ca4b8889-99fa-4fc2-93cc-89877f3d090e",
+			"name": "EP_7",
+			"url": "http://162.55.220.72:5005/user_info_2",
+			"time": 95,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				95
+			],
+			"allTests": [
+				{}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 650,
+	"collection": {
+		"requests": [
+			{
+				"id": "36f5a664-574e-40b2-be30-3be0da831a05",
+				"method": "GET"
+			},
+			{
+				"id": "bf495431-b4e8-49a5-b2e0-265e9c44a5e5",
+				"method": "POST"
+			},
+			{
+				"id": "30d22394-034f-4944-bde6-da03dca8b90b",
+				"method": "GET"
+			},
+			{
+				"id": "eae68159-92fc-4e95-98d3-ca8f11ee278a",
+				"method": "GET"
+			},
+			{
+				"id": "3e7c4629-608f-4db9-8450-7ed91952b91e",
+				"method": "GET"
+			},
+			{
+				"id": "536d62de-9462-4df7-9a3e-a294b91cb10d",
+				"method": "GET"
+			},
+			{
+				"id": "ca4b8889-99fa-4fc2-93cc-89877f3d090e",
+				"method": "POST"
+			}
+		]
+	}
+}
