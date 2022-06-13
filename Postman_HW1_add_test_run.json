@@ -1,0 +1,172 @@
+{
+	"id": "a9f328c1-0514-4de4-899b-37989d62326d",
+	"name": "Group_30_HW1 add",
+	"timestamp": "2022-06-13T13:18:14.677Z",
+	"collection_id": "20528800-9bae0a2f-a579-4d36-8059-9bf790f96375",
+	"folder_id": 0,
+	"environment_id": "20528800-043805e8-2645-482c-afdd-7da23be15a8d",
+	"totalPass": 0,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "10c0bcfc-4dcf-4cec-a5e2-138d4b11b089",
+			"name": "EP_1",
+			"url": "http://162.55.220.72:5005/get_method?name=Nick&age=40",
+			"time": 96,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				96
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "215f9de8-5785-40ee-ad23-3f63501e58be",
+			"name": "EP_2",
+			"url": "http://162.55.220.72:5005/user_info_3",
+			"time": 98,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				98
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "ab14d3b5-0bfd-49c8-897a-cfe63b9d9aea",
+			"name": "EP_3",
+			"url": "http://162.55.220.72:5005/object_info_1?name=Nick&age=40&weight=75",
+			"time": 92,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				92
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "417f0840-aef4-418a-a5f8-1a4553c75ff0",
+			"name": "EP_4",
+			"url": "http://162.55.220.72:5005/object_info_2?name=Nick&age=40&salary=6000",
+			"time": 94,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				94
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "d485f8fe-5ddc-4f72-9c64-c0af5782b085",
+			"name": "EP_5",
+			"url": "http://162.55.220.72:5005/object_info_3?name=Nick&age=40&salary=6000",
+			"time": 94,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				94
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "f3efb90f-d40b-40d1-b861-0567bb134cac",
+			"name": "EP_6",
+			"url": "http://162.55.220.72:5005/object_info_4?name=Nick&age=40&salary=6000",
+			"time": 92,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				92
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "7ad26604-f9f4-4873-87f9-9f368bc17fee",
+			"name": "EP_7",
+			"url": "http://162.55.220.72:5005/user_info_2",
+			"time": 101,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				101
+			],
+			"allTests": [
+				{}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 667,
+	"collection": {
+		"requests": [
+			{
+				"id": "10c0bcfc-4dcf-4cec-a5e2-138d4b11b089",
+				"method": "GET"
+			},
+			{
+				"id": "215f9de8-5785-40ee-ad23-3f63501e58be",
+				"method": "POST"
+			},
+			{
+				"id": "ab14d3b5-0bfd-49c8-897a-cfe63b9d9aea",
+				"method": "GET"
+			},
+			{
+				"id": "417f0840-aef4-418a-a5f8-1a4553c75ff0",
+				"method": "GET"
+			},
+			{
+				"id": "d485f8fe-5ddc-4f72-9c64-c0af5782b085",
+				"method": "GET"
+			},
+			{
+				"id": "f3efb90f-d40b-40d1-b861-0567bb134cac",
+				"method": "GET"
+			},
+			{
+				"id": "7ad26604-f9f4-4873-87f9-9f368bc17fee",
+				"method": "POST"
+			}
+		]
+	}
+}
